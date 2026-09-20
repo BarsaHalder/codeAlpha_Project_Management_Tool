@@ -43,17 +43,8 @@ Upcoming features and improvements planned for TaskFlow :
 
 
 📁 Project Structure
+<img width="352" height="452" alt="Screenshot 2026-09-20 093443" src="https://github.com/user-attachments/assets/8923cc2d-e30b-423d-bea7-af89edef37b6" />
 
-project-management-app/
-├── node_modules/
-├── public/
-│   ├── app.js
-│   ├── index.html
-│   └── style.css
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── server.js
 
 
 
